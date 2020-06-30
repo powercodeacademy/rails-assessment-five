@@ -37,7 +37,7 @@ Read through the instructions to get a sense of the scope of this code challenge
 
 6. One needs to be able to create a new puppy in the application. A new puppy requires a name, a weight, and the animal shelter it is to be placed.
 
-7. All puppies must have a name and weight, and that weight must be greater_than_or_equal_to 4 pounds.
+7. All puppies must have a name and weight, and that weight must be greater_than_or_equal_to 2 pounds.
 
 ## Submission
 
